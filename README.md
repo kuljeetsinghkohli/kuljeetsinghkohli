@@ -4,7 +4,7 @@
 
 23 years designing and running enterprise networks (Cisco SD-WAN, BGP/OSPF/MPLS, Zscaler, AWS and Azure connectivity). I'm now building the software side: retrieval, agents and evaluation on top of real infrastructure knowledge.
 
-Based in Gurugram, India. Open to Forward Deployed Engineer, Solutions Engineer and AI-infrastructure roles.
+Based in Gurugram, India. Open to Forward Deployed Engineer, Solutions Engineer and AI-infrastructure roles. Currently available to start immediately.
 
 ## What I'm building
 
